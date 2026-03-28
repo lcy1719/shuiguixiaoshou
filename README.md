@@ -1,13 +1,14 @@
 ## 源码获取（收费，价格9.8-14.8之间。地球：a1719101159）；
-### 水果销售小程序✔Java✔SpringBoot✔Vue2✔Uniapp✔MySQL✔万字文档
+### 民宿短租预订小程序✔Java✔SSM✔Vue2✔Uniapp✔MySQL✔万字文档
 ## 【项目采用技术】
 ①架构: B/S、MVC
 ②系统环境：Windows/Mac
-③开发环境：IDEA、JDK1.8、Maven、MySQL、Node.js、HBuilderX/微信开发者工具
-④技术栈：Java、MySQL、SpringBoot、Mybatis/MybatisPlus、Vue2、Uniapp、ElementUI、JavaScript、CSS
+③开发环境：IDEA、JDK1.8、Maven、MySQL、Tomcat7.5/8/9、Hbuiderx、微信开发者工具
+④技术栈：Java、MySQL、Spring、SpringMVC、Mybatis/MybatisPlus、Uniapp、Vue、JavaScript、CSS、JavaWeb、Node.js
 ## 【系统功能模块】
 系统分为管理员，用户2种角色。
-水果销售系统涵盖多方面功能，包括用户信息管理（可新增、修改用户信息）、水果信息管理（能添加、删除、修改水果信息）、水果类型管理（支持添加、修改、删除水果类型）、水果评论管理（可修改、删除、添加水果评论）、公告信息管理（能删改、删除、添加公告信息）以及论坛信息管理（支持修改、删除、添加论坛信息），全方位支持水果销售相关的信息管理与交流互动
+1.用户：登录、首页、民宿信息、民宿预定、个人中心
+2.管理员：后台登录、后台-公告信息管理、后台-房主管理、后台-房间类型管理、后台-民宿信息管理、后台-民宿预订管理、后台-用户管理
 ## ⭐代码截图、功能效果截图（功能介绍在二维码下面）⭐：
 <img width="541" height="495" alt="远程调试二维码" src="https://github.com/user-attachments/assets/d4ae01a5-dc11-478a-8b18-02c1ee2b04eb" />
 <img width="2048" height="1231" alt="闲鱼插画" src="https://github.com/user-attachments/assets/e46a9cc1-1614-4bfc-addb-3acdc044b329" />
